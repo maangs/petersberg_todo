@@ -31,7 +31,7 @@ function App() {
         </>
       ),
 
-      errorElement: <h1>Error. so sad =(</h1>,
+      errorElement: <h1>Error2. so sad =(</h1>,
     },
     {
       path: '/reduxcounter',
