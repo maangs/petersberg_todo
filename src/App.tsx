@@ -22,7 +22,7 @@ function App() {
           <Link to={`externalapi`}>
             <button>External api</button>
           </Link>
-          <h1>React useState hook</h1>
+          <h1>React useState hook v2</h1>
           <div className='card'>
             <button onClick={() => setCount((count) => count + 1)}>
               count is {count}
